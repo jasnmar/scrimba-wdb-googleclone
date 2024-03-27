@@ -1,3 +1,36 @@
+.main {
+    margin-top:100px;
+}
+
+
+.logo {
+    width:300px;
+    display:block;
+}
+.search {
+    width:400px;
+    display:block;
+}
 body {
-    background: red;
+    margin:0;
+}
+
+
+.red {
+    background: #c71226;
+    height: 100px;
+    margin-top:10px;
+    margin-left:10px;
+    margin-right:100px;
+    margin-bottom:100px;
+}
+
+.blue {
+    background: #0d1b88;
+    height: 100px;
+}
+
+.green {
+    background: #397327;
+    height: 100px;
 }
